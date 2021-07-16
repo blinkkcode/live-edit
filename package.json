@@ -1,6 +1,6 @@
 {
   "name": "@blinkk/editor.dev-ui",
-  "version": "3.2.1",
+  "version": "3.3.0",
   "license": "MIT",
   "homepage": "https://blinkk.github.com/editor.dev-ui",
   "description": "Structured content editor with live previews.",

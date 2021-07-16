@@ -1,5 +1,27 @@
 # Changelog
 
+## [3.3.0](https://www.github.com/blinkk/editor.dev-ui/compare/v3.2.1...v3.3.0) (2021-07-16)
+
+
+### Features
+
+* dark/light mode toggle ([#102](https://www.github.com/blinkk/editor.dev-ui/issues/102)) ([79812bb](https://www.github.com/blinkk/editor.dev-ui/commit/79812bb1f3be1f13956a8be5b4eb2c3edba80d4b))
+* recent file list for the empty editor state. ([#104](https://www.github.com/blinkk/editor.dev-ui/issues/104)) ([19bc23a](https://www.github.com/blinkk/editor.dev-ui/commit/19bc23aed9b25862a0a465135481964898b94408))
+* recent workspaces list on dashboard ([#107](https://www.github.com/blinkk/editor.dev-ui/issues/107)) ([5d7116a](https://www.github.com/blinkk/editor.dev-ui/commit/5d7116a39dc7da94e174c9463e8623fbc1b24a22))
+* website dark mode ([ffbf4b5](https://www.github.com/blinkk/editor.dev-ui/commit/ffbf4b51765c81f15592a08abb6a94d5b6ad0948))
+
+
+### Bug Fixes
+
+* absolute paths for preview server config ([0a8a755](https://www.github.com/blinkk/editor.dev-ui/commit/0a8a7550c71f65f69b5c3569ae43a909f42c14e2))
+* auto field guessing for specific project types ([#105](https://www.github.com/blinkk/editor.dev-ui/issues/105)) ([5e0a7bb](https://www.github.com/blinkk/editor.dev-ui/commit/5e0a7bb2564fb48e9a872c63cf2122ca6f4af398)), closes [#95](https://www.github.com/blinkk/editor.dev-ui/issues/95)
+* cleanup the menu list item coloring and variables ([#101](https://www.github.com/blinkk/editor.dev-ui/issues/101)) ([3ca4816](https://www.github.com/blinkk/editor.dev-ui/commit/3ca4816a68a4a2f6cce8627439203fea3b344fb9))
+* constant preview pane and loading status ([#99](https://www.github.com/blinkk/editor.dev-ui/issues/99)) ([7b9a970](https://www.github.com/blinkk/editor.dev-ui/commit/7b9a970e8f674c54ff2d6bd5dbc054f51253f4fd))
+* improved styling for onboarding to use grid boxes ([bc5535b](https://www.github.com/blinkk/editor.dev-ui/commit/bc5535b86490c215ba028b9bb66fbe2e691a518a))
+* missing preview config handled outside default handler ([#109](https://www.github.com/blinkk/editor.dev-ui/issues/109)) ([f261161](https://www.github.com/blinkk/editor.dev-ui/commit/f261161b21a220c26f4a1cd41617103ed43fbaf3)), closes [#106](https://www.github.com/blinkk/editor.dev-ui/issues/106)
+* separate messaging for missing preview config ([4013084](https://www.github.com/blinkk/editor.dev-ui/commit/40130848a7168ce7121b3573c7090b4a339b9e46))
+* title for truncated files in the site menu ([7860f13](https://www.github.com/blinkk/editor.dev-ui/commit/7860f1328b87b39ec44f3b282f501a6107b5f79e))
+
 ### [3.2.1](https://www.github.com/blinkk/editor.dev-ui/compare/v3.2.0...v3.2.1) (2021-07-12)
 
 
